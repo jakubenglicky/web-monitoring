@@ -1,0 +1,5 @@
+application:
+    info: mail
+
+mail:
+    address_list: jakubenglicky@gmail.com

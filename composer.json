@@ -3,6 +3,7 @@
         "classmap": ["src/"]
     },
     "require": {
-        "symfony/console": "^3.3"
+        "symfony/console": "^3.3",
+        "nette/neon": "^2.4"
     }
 }

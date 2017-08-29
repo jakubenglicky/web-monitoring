@@ -1,0 +1,9 @@
+pavelvana_cz:
+    url: 'https://pavel-vana.cz/'
+    test: code
+    result: 200
+
+englicky_net:
+    url: 'https://englicky.net/'
+    test: code
+    result: 200
