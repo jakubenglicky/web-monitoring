@@ -1,0 +1,4 @@
+inastenky_cz:
+    url: 'https://inastenky.cz/'
+    test: code
+    result: 200
